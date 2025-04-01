@@ -1,5 +1,3 @@
-// src/utils/formatters.js
-// Import priority icons
 import highPriorityIcon from '../img/alarm-high.svg';
 import mediumPriorityIcon from '../img/alarm-medium.svg';
 import lowPriorityIcon from '../img/alarm-low.svg';

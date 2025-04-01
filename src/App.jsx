@@ -1,4 +1,3 @@
-// src/App.jsx
 import React from 'react';
 import IncidentsContainer from './components/IncidentsContainer';
 import './App.css';

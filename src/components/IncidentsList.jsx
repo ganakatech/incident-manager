@@ -1,4 +1,3 @@
-// src/components/IncidentsList.jsx
 import React from 'react';
 import { formatDateTime, getPriorityText, getPriorityIcon } from '../utils/formatters';
 import './IncidentsList.css';
